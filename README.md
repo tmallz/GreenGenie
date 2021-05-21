@@ -33,7 +33,9 @@ Green Genie is a app that aims to give any marijauna plant growing enthusiast, a
 
 ## CONTRIBUTORS
 -Brian Sales: https://github.com/BrianSales
+
 -Solomon Woods: https://github.com/SxWoods
+
 -Tim O'Malley: https://github.com/tmallz
 
 ## TASKS
@@ -41,7 +43,7 @@ Green Genie is a app that aims to give any marijauna plant growing enthusiast, a
 
 -Tim, Login/Logout/Authorization/ Front/Back-End
 
-Solomon, Presentation/ CSSFramework
+-Solomon, Presentation/ CSSFramework
 
 ## APIS USED
 - Google Maps API
