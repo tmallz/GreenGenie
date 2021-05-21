@@ -31,6 +31,11 @@ Green Genie is a app that aims to give any marijauna plant growing enthusiast, a
 ![Screen Shot 2021-05-17 at 6 57 16 PM](https://user-images.githubusercontent.com/75388687/118570403-b60d1500-b741-11eb-81eb-c13ed360599d.png)
 - Will store all your previous grow recipes
 
+## CONTRIBUTORS
+-Brian Sales: https://github.com/BrianSales
+-Solomon Woods: https://github.com/SxWoods
+-Tim O'Malley: https://github.com/tmallz
+
 ## TASKS
 -Brian, Recipe API/Google API/ Front/Back-End/ 
 
@@ -43,7 +48,7 @@ Solomon, Presentation/ CSSFramework
 - Recipe API
 
 ## GITHUB REPO
-https://github.com/SxWoods/GreenGenie
+https://github.com/tmallz/GreenGenie
 
 ## DEPLOYED APP
 https://green-genie5.herokuapp.com/
